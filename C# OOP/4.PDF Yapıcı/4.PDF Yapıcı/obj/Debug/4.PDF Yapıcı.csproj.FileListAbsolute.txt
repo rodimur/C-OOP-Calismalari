@@ -1,0 +1,3 @@
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Yapıcı\4.PDF Yapıcı\obj\Debug\4.PDF Yapıcı.csproj.AssemblyReference.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Yapıcı\4.PDF Yapıcı\obj\Debug\4.PDF Yapıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Yapıcı\4.PDF Yapıcı\obj\Debug\4.PDF Yapıcı.csproj.CoreCompileInputs.cache

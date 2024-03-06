@@ -1,0 +1,8 @@
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\bin\Debug\4.PDF Saklama,Paketleme,Kapsülleme.exe.config
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\bin\Debug\4.PDF Saklama,Paketleme,Kapsülleme.exe
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\bin\Debug\4.PDF Saklama,Paketleme,Kapsülleme.pdb
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\obj\Debug\4.PDF Saklama,Paketleme,Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\obj\Debug\4.PDF Saklama,Paketleme,Kapsülleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\obj\Debug\4.PDF Saklama,Paketleme,Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\obj\Debug\4.PDF Saklama,Paketleme,Kapsülleme.exe
+C:\Users\tunah\Desktop\rodimur\C# OOP\4.PDF Saklama,Paketleme,Kapsülleme\4.PDF Saklama,Paketleme,Kapsülleme\obj\Debug\4.PDF Saklama,Paketleme,Kapsülleme.pdb

@@ -1,0 +1,8 @@
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\bin\Debug\3.PDF Ortalama Hesaplama.exe.config
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\bin\Debug\3.PDF Ortalama Hesaplama.exe
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\bin\Debug\3.PDF Ortalama Hesaplama.pdb
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\obj\Debug\3.PDF Ortalama Hesaplama.csproj.AssemblyReference.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\obj\Debug\3.PDF Ortalama Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\obj\Debug\3.PDF Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\obj\Debug\3.PDF Ortalama Hesaplama.exe
+C:\Users\tunah\Desktop\rodimur\C# OOP\3.PDF Ortalama Hesaplama\3.PDF Ortalama Hesaplama\obj\Debug\3.PDF Ortalama Hesaplama.pdb
